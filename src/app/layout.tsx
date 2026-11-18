@@ -7,7 +7,7 @@ const inter = Inter({ subsets:['latin'] });
 
 export const metadata: Metadata = {
   title: 'Ashutosh Verma | Full Stack Developer',
-  description: 'Portfolio of Ashutosh Verma, Full Stack Developer & Software Engineer.',
+  description: 'Portfolio of Ashutosh Verma: Full Stack Developer (Python, TypeScript, React, AWS), former Software Developer Intern at Rubicon Food Products, Seneca Polytechnic BTech 2027.',
 };
 
 export default function RootLayout({
